@@ -1,4 +1,3 @@
-[README_SQL_Internship.md](https://github.com/user-attachments/files/32340513/README_SQL_Internship.md)
 # 🗄️ SQL Internship Questions & Practice
 
 <div align="center">
